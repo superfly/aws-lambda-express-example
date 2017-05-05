@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "aws-lambda-express-example-executor",
+    "name": "aws-lambda-express-example",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "um2b38pu50"
+  }
+}
